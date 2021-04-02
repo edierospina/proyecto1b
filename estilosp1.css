@@ -1,0 +1,27 @@
+h1{
+    font-size: 36px;
+    color:darkblue;
+    font-weight:400;
+}
+h4{
+    font-size: 20px;
+    color:black;
+    font-weight:200;
+}
+
+p{
+    font-size: 20px;
+    font-style:italic;
+    font-family: 'Indie Flower',cursive;
+}
+
+.parrafo{
+    font-size: 15px;
+    color: dimgray;
+    font-weight:600;
+    text-align: center;
+    background-color:black;
+ }
+
+
+ }
